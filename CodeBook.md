@@ -145,12 +145,13 @@ Average, standard deviation, and weighted average of the frequency components of
 fBodyBodyAccJerkMagMean,
 fBodyBodyAccJerkMagStd,
 fBodyBodyAccJerkMagMeanFreq.
+
 Average, standard deviation, and weighted average of the frequency components of the frequency-domain magnitude of body angular velocity:
-fBodyBodyGyroMagMean
-fBodyBodyGyroMagStd
-fBodyBodyGyroMagMeanFreq
+fBodyBodyGyroMagMean,
+fBodyBodyGyroMagStd,
+fBodyBodyGyroMagMeanFreq.
 
 Average, standard deviation, and weighted average of the frequency components of the frequency-domain magnitude of body angular velocity jerk (derivation of the angular velocity in time):
-fBodyBodyGyroJerkMagMean
-fBodyBodyGyroJerkMagStd
-fBodyBodyGyroJerkMagMeanFreq
+fBodyBodyGyroJerkMagMean,
+fBodyBodyGyroJerkMagStd,
+fBodyBodyGyroJerkMagMeanFreq.
